@@ -1,8 +1,8 @@
 name 'ksr'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Santhosh Reddy'
+maintainer_email 'santhoshr612@gmail.com'
 license 'all_rights'
-description 'Installs/Configures ksr'
+description 'Installs/Configures Apache Web Service'
 long_description 'Installs/Configures ksr'
 version '0.1.0'
 
